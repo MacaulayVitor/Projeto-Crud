@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "homepage": "https://macaulayvitor.github.io/Projeto-Crud/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",

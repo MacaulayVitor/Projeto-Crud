@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Projeto-Crud/static/css/main.31d6cfe0.css",
+    "main.js": "/Projeto-Crud/static/js/main.4fffd51d.js",
+    "index.html": "/Projeto-Crud/index.html",
+    "main.4fffd51d.js.map": "/Projeto-Crud/static/js/main.4fffd51d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4fffd51d.js"
+  ]
+}
